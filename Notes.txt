@@ -1,0 +1,5 @@
+NOTE #1
+-This link will be the shareable online link after committing and syncing the file on GitHub Desktop.
+https://typicalscotty.github.io/my-website/test.html
+--------------------------------------------------------------------------------
+
