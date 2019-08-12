@@ -1,6 +1,7 @@
 NOTE #1 (*Online Link*)
 -This link will be the shareable online link after committing and syncing the file on GitHub Desktop.
 https://typicalscotty.github.io/my-website/test.html
+ps: test in this case is the name of the file that you want online
 --------------------------------------------------------------------------------
 NOTE #2 (*Offline Link*)
 -This will be the offline local link to access the website from the file path.
